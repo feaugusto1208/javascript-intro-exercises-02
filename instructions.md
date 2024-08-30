@@ -4,6 +4,11 @@
 4. Escopo das variáveis em JavaScript
 5. Operadores em JavaScript
 
+1. Setting Up Your JavaScript Development Environment
+2. Getting Started: Hello, World!
+3. Data Types in JavaScript
+4. Variable Scope in JavaScript
+5. Operators in JavaScript
 
 
 
